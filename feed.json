@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "love_forever",
+    "description": "",
+    "home_page_url": "https://ChengYouLeeTony.github.io/publii-demo",
+    "feed_url": "https://ChengYouLeeTony.github.io/publii-demo/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "tony"
+    },
+    "items": [
+    ]
+}
